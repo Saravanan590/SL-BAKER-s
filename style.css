@@ -1,0 +1,85 @@
+html{
+    width: 100%;
+    
+}
+#topheader{
+    
+    border-bottom:2px solid gray ;
+}
+#topheader a{
+    color:#2E4053 ;
+    font-weight: 600;
+    font-size: medium;
+}
+.container-fluid
+{
+    padding-left: 0%;
+    padding-right: 0%;
+    background-color: #22313f;
+    width: 100%;
+}
+
+nav ul li a{
+    font-size:170%;
+    font-weight:700;
+    }
+
+.foot{
+    background-color: #22313f;
+    width: 100%;
+
+}
+
+.bottom-foot .container-fluid{
+    background-color: ghostwhite;
+    color:#013243 ;
+    font-weight: 900;
+
+}
+.mid{
+    background-color:#446cb3;
+    color: #24252a;
+    font-weight: 900;
+    border-bottom: 1.3px solid gray;
+
+}
+.kl img{
+    width: 150px;
+}
+.breadcrumb
+{
+    background-color:#e4f1fe;
+}
+.summa{
+    background-color:#22313f ;
+    color: ghostwhite;
+    border-bottom: 1px solid white;
+}
+.dummy{
+    background-color: #22313f;
+    color: white;
+}
+.dummy .form-control
+{
+   border: 2px solid#22313f;
+   border-radius: 20px 0 0 20px;
+}
+.dummy .btn
+{   
+    border-radius: 0 20px 20px 0;
+    background-color: blue;
+    color: white;
+}
+.kx img{
+    width: 150px;
+}
+.clients{
+    background-color: #e8e8e8;
+    color: #24252a;
+    font-weight: 1000;
+    
+}
+.clients img{
+    width: 200px;
+}
+
